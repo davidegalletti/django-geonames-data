@@ -1,0 +1,1 @@
+# django-geonames-data
